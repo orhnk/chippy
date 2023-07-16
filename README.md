@@ -14,3 +14,13 @@ My Notes about everything!
 ## Neovim (That Editor)
 
 - Using siduck/NvChad: not bloated
+
+# Terinal
+
+## Showkey
+
+use following command to see what is the escape code of a shortcut:
+
+```shell
+showkey -a
+```
