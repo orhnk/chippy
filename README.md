@@ -15,7 +15,7 @@ My Notes about everything!
 
 - Using siduck/NvChad: not bloated
 
-# Terinal
+# Terminal
 
 ## Showkey
 
@@ -24,3 +24,7 @@ use following command to see what is the escape code of a shortcut:
 ```shell
 showkey -a
 ```
+
+# Disk Scanner
+
+- dua-rs: fast & solid disk scanner written in rust
