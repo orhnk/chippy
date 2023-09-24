@@ -28,3 +28,15 @@ showkey -a
 # Disk Scanner
 
 - dua-rs: fast & solid disk scanner written in rust
+
+# Programming languages
+
+## Rust
+
+### Cargo
+
+use the following for smaller target dirs:
+
+```toml
+strip = true
+```
