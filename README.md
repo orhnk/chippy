@@ -29,6 +29,15 @@ showkey -a
 
 - dua-rs: fast & solid disk scanner written in rust
 
+# OS
+
+## NixOS
+
+### Absolute path to a package
+
+after installing perf tools to nixos as in my dotnix repo, I needed to find absolute path to it.
+Searching a bit shows that It's in `/etc/profiles/per-user/bin/` + `perf`
+
 # Programming languages
 
 ## Rust
