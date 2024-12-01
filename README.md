@@ -29,6 +29,12 @@ showkey -a
 
 - dua-rs: fast & solid disk scanner written in rust
 
+# Kobo
+
+## Cannot read billingual books?
+
+Downlaod [Go Noto Fonts](https://github.com/satbyy/go-noto-universal) which will fix misrendered fonts. Place it under the `fonts/` at the root folder of your reader, mounted.
+
 # OS
 
 ## NixOS
