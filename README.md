@@ -35,6 +35,12 @@ showkey -a
 
 Downlaod [Go Noto Fonts](https://github.com/satbyy/go-noto-universal) which will fix misrendered fonts. Place it under the `fonts/` at the root folder of your reader, mounted.
 
+## Converting E-Book Formats
+
+### PDF to EPUB
+
+Converting pdfs may become complex, especially with non-plain-text pdf files. If your pdf's structure is simple, using calibre convertion tools or some site like cloud convert would work fine. But if the structure is full of images and such, these options may not convert them correctly (e.g images may appear black). For those situations I found that [this site](https://www.cleverpdf.com/downToEpub) works, from [a commment from reddit](https://www.reddit.com/r/zlibrary/comments/15baklx/comment/kcwsb2m/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+
 # OS
 
 ## NixOS
